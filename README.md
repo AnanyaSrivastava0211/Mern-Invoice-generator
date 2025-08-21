@@ -115,7 +115,7 @@ npm run dev
 ```
 
 The application will be available at:
-- **Frontend**: http://localhost:3001
+- **Frontend**: mern-invoice-generator.netlify.app
 - **Backend**: http://localhost:5001
 
 ### Production Build
